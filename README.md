@@ -1,6 +1,14 @@
 
 # Frontend-Vioo
 a WEVIOO intern solution for visualization and analysis of some documents , matching required words with each document highlighted words ..
+## The Interfaces Preview
+### User Intrface :
+
+![image](https://user-images.githubusercontent.com/84160502/189190763-7d7698a1-0172-491e-a049-4a9224fdba5e.png)
+
+### Admin Dashboard :
+
+![image](https://user-images.githubusercontent.com/84160502/189190869-5725879b-22a9-4956-8289-c2e716180124.png)
 
 ## Getting Started with Create React App
 
