@@ -4,7 +4,7 @@ a WEVIOO intern solution for visualization and analysis of some documents , matc
 ## The Interfaces Preview
 ### User Intrface :
 
-![image](https://user-images.githubusercontent.com/84160502/189190763-7d7698a1-0172-491e-a049-4a9224fdba5e.png)
+![image](https://user-images.githubusercontent.com/84160502/189493539-fadd8c8d-bc4d-42bc-b851-5a27048358b0.png)
 
 ### Admin Dashboard :
 
