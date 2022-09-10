@@ -518,7 +518,7 @@ a {
 
 
 .col-md-4{
-  margin-bottom: -15%;
+  margin-bottom: -18%;
 }
 
 .tag-score {
@@ -714,3 +714,22 @@ a {
   color: #EDEDED !important;
 }
 
+input::file-selector-button{
+  border-radius: 6px;
+  margin-top: 1px;
+  margin-right: 5px;
+  border-color: rgb(124, 73, 149) !important;
+  border-left-color:rgb(124, 73, 149) !important ;
+  border-bottom-color:rgb(124, 73, 149) !important ;
+  border-top-color:rgb(124, 73, 149) !important ;
+  font-size: 10px;
+  font-weight:bold;
+  background-color:transparent;
+  padding: 0.5%;
+  color: rgb(124, 73, 149);
+}
+
+input::file-selector-button :hover{
+  border-color: #642583 !important;
+  color: #642583;
+}
