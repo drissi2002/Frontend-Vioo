@@ -1,6 +1,6 @@
 
 # Frontend-Vioo
-a WEVIOO intern solution for visualization and analysis of some documents , matching required words with each document highlighted words ..
+A WEVIOO Intern solution for visualizing and analyzing documents by matching required keywords and highlighting them within each document.
 ## The Interfaces Preview
 ### User Intrface :
 
