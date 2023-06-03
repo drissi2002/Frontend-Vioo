@@ -1,5 +1,5 @@
 
-# frontend-keyword-based-document-visualization-and-analysis
+# frontend-keyword-based-document-visualization
 A WEVIOO Intern solution for visualizing and analyzing documents by matching required keywords and highlighting them within each document.
 ## The Interfaces Preview
 ### User Intrface :
